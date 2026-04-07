@@ -1,6 +1,6 @@
 # 思维与发言教练 · 热点话题训练助手
 
-> 一个帮你训练“热点话题概括总结与发言能力”的 AI 教练，也是我第一次零代码体验 Coze 的作品。
+>这是一个记录学习成果的demo， 一个用来帮助训练“热点话题概括总结与发言能力”的 AI 教练，也是我第一次零代码体验 Coze 的作品。
 
 ## 🎯 两个目的
 
@@ -38,7 +38,7 @@
 
 Bot 已发布到 Coze 商店，点击下方链接即可开始训练（无需登录）：
 
-[https://www.coze.cn/store/bot/你的BotID](https://www.coze.cn/store/bot/你的BotID)
+(https://www.coze.cn/store/agent/7624354194568675347?bot_id=true)
 
 ## 📄 备注
 
